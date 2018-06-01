@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/example-minnietwitter/example-minnietwitter.iml" filepath="$PROJECT_DIR$/examples/example-minnietwitter/example-minnietwitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/HanksTodo/hanksTodo.iml" filepath="$PROJECT_DIR$/examples/HanksTodo/hanksTodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sapphire.iml" filepath="$PROJECT_DIR$/.idea/modules/sapphire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sapphire-core/sapphire-core.iml" filepath="$PROJECT_DIR$/sapphire-core/sapphire-core.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+include ':sapphire-core'
+
+// Example Apps
+include ':examples:hanksTodo'
+include ':examples:example-minnietwitter'
